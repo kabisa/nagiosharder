@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'i18n'
   s.add_dependency 'terminal-table'
   s.add_dependency 'httparty'
-  s.add_dependency 'hashie', '~> 1.2.0'
+  s.add_dependency 'hashie'
   s.add_development_dependency 'rspec', '>= 1.2.9'
   s.add_development_dependency 'webmock'
 
